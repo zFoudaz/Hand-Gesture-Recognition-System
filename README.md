@@ -85,7 +85,7 @@ The UI includes:
 
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/zFoudaz/Hand-Gesture-Recognition-System.git>
+git clone https://github.com/zFoudaz/Hand-Gesture-Recognition-System.git
 cd Hand-Gesture-Recognition-System
 ```
 ```bash
