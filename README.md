@@ -43,7 +43,7 @@ Public datasets were insufficient due to:
 - Each sample contains **42 numeric features (x, y)**  
 - ~300 samples per gesture  
 - Stored in CSV or NumPy format  
-![classes](imgs/classes.png)
+![thumbnail](imgs/classes.png)
 ---
 
 ## ✋ Mediapipe Hand Tracking  
@@ -85,16 +85,19 @@ The UI includes:
 
 ### 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/zFoudaz/Hand-Gesture-Recognition-System.git
+git clone https://github.com/zFoudaz/Hand-Gesture-Recognition-System.git>
 cd Hand-Gesture-Recognition-System
 ```
+### 2️⃣ install required libiraries:
 ```bash
 pip install -r requirements.txt
 ```
-run the local version (using cv2 for camera):
+### 3️⃣ run the local version (using cv2 for camera):
 ```bash
 streamlit run app_local.py
 ```
+## 🌏 Use online
+https://depi-sign-language-project.streamlit.app/
 ## 📁 Project Structure
 ```bash
 .
