@@ -43,7 +43,7 @@ Public datasets were insufficient due to:
 - Each sample contains **42 numeric features (x, y)**  
 - ~300 samples per gesture  
 - Stored in CSV or NumPy format  
-
+![classes](imgs/classes.png)
 ---
 
 ## ✋ Mediapipe Hand Tracking  
