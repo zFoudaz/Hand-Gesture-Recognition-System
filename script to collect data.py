@@ -3,7 +3,7 @@ import mediapipe as mp
 import csv
 
 labels=['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'I love you',
-       'OK', 'Telephone', 'Very Good', 'Please', 'Hello']
+       'OK', 'Telephone', 'Very Good', 'Please', 'Hello','Thank you','Yes', 'No', 'Help Me', 'Eat', 'Drink']
 
 label = labels[11]
 num = 0
@@ -79,4 +79,5 @@ cap.release()
 cv2.destroyAllWindows()
 
 print("Dataset saved to:", csv_file)
+
 f.close()
